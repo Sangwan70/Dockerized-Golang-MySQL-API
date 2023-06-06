@@ -23,11 +23,11 @@ var users = []models.User{
 var posts = []models.Post{
 	models.Post{
 		Title:   "The SkillPedia Launched",
-		Content: "Hello world 1",
+		Content: "A Great Portal to learn and Teach - www.theskillpedia.com",
 	},
 	models.Post{
 		Title:   "Alliance Software Technology",
-		Content: "Hello world 2",
+		Content: "Providing Consulting to IT Companies.",
 	},
 }
 
