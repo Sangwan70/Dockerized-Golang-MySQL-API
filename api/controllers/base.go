@@ -14,7 +14,6 @@ import (
         _ "github.com/gorilla/mux"
         _ "github.com/joho/godotenv"
         _ "golang.org/x/text"
-        _ "github.com/jinzhu/gorm/dialects/postgres"
         _ "gopkg.in/go-playground/assert.v1"
 	_ "github.com/jinzhu/gorm/dialects/mysql"    //mysql database driver
 	"github.com/Sangwan70/skillpedia/api/models"
