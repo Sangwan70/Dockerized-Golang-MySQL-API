@@ -1,6 +1,6 @@
 FROM golang:1.12-alpine
 
-# Install git
+# Install git on local system
 
 RUN apk update && apk add --no-cache git
 
